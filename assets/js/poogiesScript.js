@@ -8,7 +8,7 @@ for (var i = 0; i < orderedPoogies.length; i++) {
 $(document).ready( function () {
     $('#poogies_table').DataTable({
       data: orderedPoogies,
-      scrollY: '65vh',
+      scrollY: '75vh',
       scrollX: true,
       paging: false,
       columns: [
