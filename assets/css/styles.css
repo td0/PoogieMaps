@@ -227,6 +227,5 @@ _:-ms-input-placeholder, :root .demo-graph {
 }
 
 #poogies_table_filter {
-  padding: 10px;
-  margin-right: 10px;
+  padding-right: 20px;
 }
